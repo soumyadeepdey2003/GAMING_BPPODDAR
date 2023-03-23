@@ -61,5 +61,5 @@ Here are some related projects
 
 ## Feedback
 
-If you have any feedback, please reach out to us at arnabmanna203@gmail.com
+If you have any feedback, please reach out to us at arnabmanna203@gmail.com and soumyadeep_d.cse2021@msit.edu.in
 
